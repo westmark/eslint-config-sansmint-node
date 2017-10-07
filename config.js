@@ -37,6 +37,7 @@ module.exports = function ( nodeModules ) {
         2,
         'always',
       ],
+      'no-mixed-operators': 0,
       'import/extensions': 0,
       'import/prefer-default-export': 0,
       'import/no-unresolved': 0,
