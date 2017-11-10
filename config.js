@@ -44,6 +44,7 @@ module.exports = function ( nodeModules ) {
       'max-len': 0,
       'no-debugger': 1,
       'no-unused-vars': 1,
+      'no-param-reassign': 1,
       'prefer-const': [ 2, {
           'ignoreReadBeforeAssign': true,
 	       },
